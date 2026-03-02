@@ -1,7 +1,10 @@
 # Bardo
 A dark, atmospheric custom Omarchy theme inspired by Tibetan funerary art.
-# Screenshot
+# Screenshot / Wallpapers
 <img width="2560" height="1600" alt="preview" src="https://github.com/user-attachments/assets/029c362e-4244-4999-ab54-bd8cb8483ec4" />
+
+<img width="2560" height="1587" alt="screenshot-2026-03-02_20-31-31" src="https://github.com/user-attachments/assets/1b355d4e-8308-4637-bcf9-349e44b412ce" />
+
 
 <img width="1920" height="1080" alt="screenshot-2026-03-01_14-01-55" src="https://github.com/user-attachments/assets/21522434-8a83-4436-8f20-fb5e0e923ba1" />
 
